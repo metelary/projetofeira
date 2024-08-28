@@ -11,3 +11,16 @@ body {
 button {
     background-color: #9b9b9b;
 }
+
+.btn-proximo {
+    padding: 15px 30px; 
+    font-size: 18px; 
+    background-color: #132852; 
+    color: white; 
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+.btn-proximo:hover {
+    background-color: #213a6e; 
+}
